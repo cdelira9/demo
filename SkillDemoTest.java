@@ -3,7 +3,8 @@ import org.junit.*;
 
 public class SkillDemoTest {
     @Test
-    public void addition() {
-        assertEquals(2, SkillDemo.add(1,1));
-    }  
+    public void remianders(){
+        assertEquals(0, SkillDemo.remainder(5,2));
+    }
+
 }

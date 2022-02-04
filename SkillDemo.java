@@ -1,5 +1,5 @@
-public class SkillDemo{
-    public static int add(int n, int m){
-        return n + m;
+public class SkillDemo {
+    public static int remainder(int a, int b){
+        return a%b;
     }
 }
